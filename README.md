@@ -8,10 +8,10 @@ Die Karten aus `cards_uniqes.svg` auf einer Overheadfolie im Copyshop drucken, z
 
 ### Generiere Kombinationen
 
-´´´bash
+```
 pip install -r requirements.txt
 python combine.py
-´´´
+```
 
 Generiert ein Paar Karten, aber nicht annhährend alle, noch unterentwickelt mein Gedanke wie man richtig kombiniert, dreht und ordnet ohne ein Gigabyte langweilige triviale Karten alles zu verrauschen XD
 
@@ -19,5 +19,5 @@ Generiert ein Paar Karten, aber nicht annhährend alle, noch unterentwickelt mei
 
 TODOs
 
-[ ] generiere interessante Spielkarten zum abrufen auf einer statischen Website zum spielen ^^
-[ ] vllt ein paar neue Formen für Varianten ausdenken :)
+* [ ] generiere interessante Spielkarten zum abrufen auf einer statischen Website zum spielen ^^
+* [ ] vllt ein paar neue Formen für Varianten ausdenken :)
